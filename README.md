@@ -3,7 +3,7 @@
 
 # Enock Kipngeno
 
-I'm Enock, a <a href="https://www.credly.com/badges/847bc201-fb84-4228-8941-596934d5625d/public_url">google certified data analyst!</a> from Kenya. I like create cool new solutions from my vast understanding of R packages.
+I'm Enock, <a href="https://www.credly.com/badges/847bc201-fb84-4228-8941-596934d5625d/public_url">google certified professional data analyst</a> from Kenya.Passionate about creating   new solutions to R community  from my vast understanding of R packages.
 
 ## Skills and Experience
 * 💻R-ggplot2,Tidymodels,Tidyverse
