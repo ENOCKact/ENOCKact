@@ -1,7 +1,7 @@
 
 ![](https://pbs.twimg.com/profile_images/1430090861409357834/LJLJ0imY_400x400.jpg)
 
-# Hi there 👋, my name is Enock Kipngeno
+# Enock Kipngeno
 
 i like exploring and creating cool new solutions from my vast understanding of R packages and python.
 
