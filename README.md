@@ -6,12 +6,11 @@
 i like exploring and creating cool new solutions from my vast understanding of R packages and python.
 
 ## Skills and Experience
-* R
-* Python
-* SQL
-* Tableau
-* Tidymodels
-* Ggplot2
+* 💻R-ggplot2,Tidymodels,Tidyverse
+* 💻Python
+* 💻SQL
+* 💻Tableau
+
 
 
 - 🔭 I’m currently working on this page. 
