@@ -1,9 +1,9 @@
 
-![](https://pbs.twimg.com/profile_images/1430090861409357834/LJLJ0imY_400x400.jpg)
+![](https://pbs.twimg.com/profile_images/1431680278183960577/TZ8Xtc59_400x400.jpg)
 
 # Enock Kipngeno
 
-I'm Enock, <a href="https://www.credly.com/badges/847bc201-fb84-4228-8941-596934d5625d/public_url">certified professional data analyst </a> by google.Passionate about creating new solutions to R community.
+<a href="https://www.credly.com/badges/847bc201-fb84-4228-8941-596934d5625d/public_url">certified professional data analyst </a> by google.Passionate about creating new solutions to R community.“If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” — Jim Barksdale
 
 ## Skills and Experience
 * 💻R-ggplot2,Tidymodels,Tidyverse
