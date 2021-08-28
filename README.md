@@ -3,7 +3,7 @@
 
 # Enock Kipngeno
 
-<a href="https://www.credly.com/badges/847bc201-fb84-4228-8941-596934d5625d/public_url">certified professional data analyst </a> by google.Passionate about creating new solutions to R community.“If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” — Jim Barksdale
+<a href="https://www.credly.com/badges/847bc201-fb84-4228-8941-596934d5625d/public_url">Google certified professional data analyst </a>.Passionate about creating new solutions to R community.
 
 ## Skills and Experience
 * 💻R-ggplot2,Tidymodels,Tidyverse
