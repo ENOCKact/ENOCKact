@@ -7,9 +7,8 @@
 
 ## Skills and Experience
 * 💻R-ggplot2,Tidymodels,Tidyverse
-* 💻Python
 * 💻SQL
-* 💻Tableau
+* 💻Power bi
 
 
 
