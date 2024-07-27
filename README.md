@@ -9,6 +9,7 @@
 * 💻R-ggplot2,Tidymodels,Tidyverse
 * 💻SQL
 * 💻Power bi
+* Python
 
 
 
